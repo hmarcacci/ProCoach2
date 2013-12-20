@@ -22,9 +22,9 @@
 		A1389E0418639D7600B398A3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1389DE318639D7500B398A3 /* UIKit.framework */; };
 		A1389E0C18639D7600B398A3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A1389E0A18639D7600B398A3 /* InfoPlist.strings */; };
 		A1389E0E18639D7600B398A3 /* ProCoach2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = A1389E0D18639D7600B398A3 /* ProCoach2Tests.m */; };
-		A1389E1E1863F65900B398A3 /* Arnold Iphone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1389E1D1863F65900B398A3 /* Arnold Iphone.jpg */; };
-		A1389E201863F65F00B398A3 /* GraphIphone.png in Resources */ = {isa = PBXBuildFile; fileRef = A1389E1F1863F65F00B398A3 /* GraphIphone.png */; };
-		A1389E221863F66E00B398A3 /* BravesIphone.png in Resources */ = {isa = PBXBuildFile; fileRef = A1389E211863F66E00B398A3 /* BravesIphone.png */; };
+		A1389E241863F7F500B398A3 /* Arnold Iphone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1389E231863F7F500B398A3 /* Arnold Iphone.jpg */; };
+		A1389E261863F7FD00B398A3 /* IphoneGraphSized.png in Resources */ = {isa = PBXBuildFile; fileRef = A1389E251863F7FD00B398A3 /* IphoneGraphSized.png */; };
+		A1389E281863F80200B398A3 /* BravesIphone.png in Resources */ = {isa = PBXBuildFile; fileRef = A1389E271863F80200B398A3 /* BravesIphone.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,9 +58,9 @@
 		A1389E0918639D7600B398A3 /* ProCoach2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ProCoach2Tests-Info.plist"; sourceTree = "<group>"; };
 		A1389E0B18639D7600B398A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A1389E0D18639D7600B398A3 /* ProCoach2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProCoach2Tests.m; sourceTree = "<group>"; };
-		A1389E1D1863F65900B398A3 /* Arnold Iphone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Arnold Iphone.jpg"; path = "../../../../Downloads/Arnold Iphone.jpg"; sourceTree = "<group>"; };
-		A1389E1F1863F65F00B398A3 /* GraphIphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GraphIphone.png; path = ../../../../Downloads/GraphIphone.png; sourceTree = "<group>"; };
-		A1389E211863F66E00B398A3 /* BravesIphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BravesIphone.png; path = ../../../../Downloads/BravesIphone.png; sourceTree = "<group>"; };
+		A1389E231863F7F500B398A3 /* Arnold Iphone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Arnold Iphone.jpg"; path = "../../../Downloads/Arnold Iphone.jpg"; sourceTree = "<group>"; };
+		A1389E251863F7FD00B398A3 /* IphoneGraphSized.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IphoneGraphSized.png; path = ../../../Downloads/IphoneGraphSized.png; sourceTree = "<group>"; };
+		A1389E271863F80200B398A3 /* BravesIphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BravesIphone.png; path = ../../../Downloads/BravesIphone.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,9 +124,9 @@
 				A1389DF118639D7600B398A3 /* Main_iPhone.storyboard */,
 				A1389DF418639D7600B398A3 /* Main_iPad.storyboard */,
 				A1389DF718639D7600B398A3 /* ViewController.h */,
-				A1389E211863F66E00B398A3 /* BravesIphone.png */,
-				A1389E1D1863F65900B398A3 /* Arnold Iphone.jpg */,
-				A1389E1F1863F65F00B398A3 /* GraphIphone.png */,
+				A1389E251863F7FD00B398A3 /* IphoneGraphSized.png */,
+				A1389E231863F7F500B398A3 /* Arnold Iphone.jpg */,
+				A1389E271863F80200B398A3 /* BravesIphone.png */,
 				A1389DEE18639D7600B398A3 /* AppDelegate.h */,
 				A1389DF818639D7600B398A3 /* ViewController.m */,
 				A1389DFA18639D7600B398A3 /* Images.xcassets */,
@@ -240,13 +240,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1389E221863F66E00B398A3 /* BravesIphone.png in Resources */,
+				A1389E281863F80200B398A3 /* BravesIphone.png in Resources */,
 				A1389DF618639D7600B398A3 /* Main_iPad.storyboard in Resources */,
+				A1389E261863F7FD00B398A3 /* IphoneGraphSized.png in Resources */,
 				A1389DFB18639D7600B398A3 /* Images.xcassets in Resources */,
-				A1389E1E1863F65900B398A3 /* Arnold Iphone.jpg in Resources */,
+				A1389E241863F7F500B398A3 /* Arnold Iphone.jpg in Resources */,
 				A1389DF318639D7600B398A3 /* Main_iPhone.storyboard in Resources */,
 				A1389DEA18639D7600B398A3 /* InfoPlist.strings in Resources */,
-				A1389E201863F65F00B398A3 /* GraphIphone.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
