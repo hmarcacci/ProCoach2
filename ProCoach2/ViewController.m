@@ -8,11 +8,9 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
-//commented by Mason for Hank
-@end
-
 @implementation ViewController
+
+//commented wegehwh233ehg
 
 - (void)viewDidLoad
 {
