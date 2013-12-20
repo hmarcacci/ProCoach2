@@ -9,7 +9,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-//commented by HANK FOR MASON
+//commented by Mason for Hank
 @end
 
 @implementation ViewController
